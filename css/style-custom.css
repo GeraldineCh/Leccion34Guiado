@@ -12,6 +12,10 @@ th,td {
 }
 
 /*Propias del usuario*/
+.form-padding {
+	padding: 2%;
+}
+
 .bg-gray-low {
 	background-color: #eee;
 }
